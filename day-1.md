@@ -1,5 +1,5 @@
-# Daily Learning <h1>
-## Morning Planning<h2>
+# Daily Learning 
+## Morning Planning
 <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 
 - [ ] Check out the [github blog](https://github.blog/) for topic ideas.
@@ -7,7 +7,7 @@
 - [ ] Convert my first blog post into an actual webpage.
       
 
-## Review <h2>
+## Review 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
 ```bash
